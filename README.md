@@ -1,16 +1,10 @@
-# Robotics 102: Introduction to AI and Programming
+# Autonomous Robotics
 
 http://robotics102.github.io
 
 http://robotics102.org
 
-The objective for Robotics 102 is the implementation and understanding of autonomous navigation algorithms for mobile robots. Through building autonomous navigation algorithms for an omni-drive robot, students in Robotics 102 will be introduced to the foundations of AI and how to program computers for AI algorithms. Students will gain exposure to modeling AI problems as graphs and performing inference though graph algorithms in C++ and Julia.
-
-Robotics 102 gives Engineering students early exposure to Robotics and AI as a foundation for a general engineering education as well as preparation for deeper study in Robotics and AI.
-
-Robotics 102 shares the objective of Engineering 101 as a first-year semester course to gain fluency in computer programming and algorithmic thinking. Algorithms are an organized means to construct the solution of a problem, structured as a well-defined set of steps that can be carried out by a mechanism such as a computer. Robotics 102 focuses on the development of algorithms to solve problems of relevance in robotics and artificial intelligence and implementation of these algorithms using high-level computer languages.
-
-In the context of autonomous navigation, Robotics 102 will provide concrete examples in robotics and AI that provide exposure to foundational concepts in autonomous decision making, including:
+During your module you will have to be able to use your knowledge to create an autonomous robot with the various inputs that your robot will recieve
 
     Sense-Plan-Act paradigm
     Finite state machines and Reactive automata
